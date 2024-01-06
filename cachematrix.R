@@ -6,7 +6,7 @@
 matrix_inv <- function(x = matrix()){
   inv <- NULL
   mat <- x
-  
+  cat <- y2
   #function to set matrix data
   set_matrix <- function(y){
     x <<- y
